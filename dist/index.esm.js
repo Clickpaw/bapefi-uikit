@@ -2396,11 +2396,6 @@ var connectors = [
         icon: Icon$11,
         connectorId: "walletconnect",
     },
-    {
-        title: "Binance Chain Wallet",
-        icon: Icon$12,
-        connectorId: "bsc",
-    },
 ];
 var localStorageKey = "accountStatus";
 
