@@ -2108,8 +2108,7 @@ var socials = [
     {
         label: "Twitter",
         icon: "TwitterIcon",
-        href: "https://x.com/BapeFarm
-",
+        href: "https://x.com/BapeFarm",
     },
 ];
 var MENU_HEIGHT = 64;
