@@ -102,7 +102,7 @@ export const socials = [
     items: [
       {
         label: "English",
-        href: "https://t.me/rockswap",
+        href: "https://t.me/BapeFiPortal",
       },
       // {
       //   label: "Bahasa Indonesia",
@@ -146,7 +146,7 @@ export const socials = [
       // },
       {
         label: "Announcements",
-        href: "https://t.me/rockswap",
+        href: "https://t.me/BapeFiPortal",
       },
       // {
       //   label: "Whale Alert",

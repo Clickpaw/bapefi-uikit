@@ -2057,7 +2057,7 @@ var socials = [
         items: [
             {
                 label: "English",
-                href: "https://t.me/rockswap",
+                href: "https://t.me/BapeFiPortal",
             },
             // {
             //   label: "Bahasa Indonesia",
@@ -2101,7 +2101,7 @@ var socials = [
             // },
             {
                 label: "Announcements",
-                href: "https://t.me/rockswap",
+                href: "https://t.me/BapeFiPortal",
             },
         ],
     },
