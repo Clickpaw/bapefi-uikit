@@ -2110,7 +2110,7 @@ var socials = [
             // },
             {
                 label: "Announcements",
-                href: "https://t.me/rockswap",
+                href: "https://t.me/BapeFiPortal",
             },
         ],
     },
