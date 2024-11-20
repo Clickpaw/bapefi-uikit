@@ -2064,14 +2064,10 @@ var links = [
     },
 ];
 var socials = [
-  //   {
-    //     label: "Telegram",
-    //     icon: "TelegramIcon",
-    //     items: [
-    //         {
-   //              label: "English",
-   //              href: "https://t.me/BapeFiPortal",
-  //           },
+    {
+        label: "Telegram",
+        icon: "TelegramIcon",
+        items: [
             // {
             //   label: "Bahasa Indonesia",
             //   href: "https://t.me/PancakeSwapIndonesia",
@@ -2114,7 +2110,7 @@ var socials = [
             // },
             {
                 label: "Announcements",
-                href: "https://t.me/BapeFiPortal",
+                href: "https://t.me/rockswap",
             },
         ],
     },
