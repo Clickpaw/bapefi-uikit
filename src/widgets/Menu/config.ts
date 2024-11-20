@@ -100,10 +100,6 @@ export const socials = [
     label: "Telegram",
     icon: "TelegramIcon",
     items: [
-      {
-        label: "English",
-        href: "https://t.me/BapeFiPortal",
-      },
       // {
       //   label: "Bahasa Indonesia",
       //   href: "https://t.me/PancakeSwapIndonesia",
@@ -146,7 +142,7 @@ export const socials = [
       // },
       {
         label: "Announcements",
-        href: "https://t.me/BapeFiPortal",
+        href: "https://t.me/rockswap",
       },
       // {
       //   label: "Whale Alert",
