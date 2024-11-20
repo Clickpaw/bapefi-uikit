@@ -2054,11 +2054,11 @@ var links = [
             // },
             {
                 label: "Github",
-                href: "https://github.com/rockswapfinance",
+                href: "",
             },
             {
                 label: "Blog",
-                href: "https://rockswap.medium.com/",
+                href: "",
             },
         ],
     },
@@ -2121,7 +2121,7 @@ var socials = [
     {
         label: "Twitter",
         icon: "TwitterIcon",
-        href: "https://twitter.com/rockswap_bsc",
+        href: "https://x.com/BapeFarm",
     },
 ];
 var MENU_HEIGHT = 64;
